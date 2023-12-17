@@ -60,7 +60,7 @@ namespace RandomNumberStatistics
 
 
                         Random random = new Random();
-                        randNumbers.Add(random.Next(Convert.ToInt32(randNumRangedown.Text), (Convert.ToInt32(randNumRangeup.Text))));
+                        randNumbers.Add(random.Next(Convert.ToInt32(randNumRangedown.Text), (Convert.ToInt32(randNumRangeup.Text))+1));
                         label2.Text += Convert.ToString(randNumbers[iterator]);
                         label2.Text += " | ";
 
