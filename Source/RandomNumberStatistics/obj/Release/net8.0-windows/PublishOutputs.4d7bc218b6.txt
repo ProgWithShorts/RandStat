@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\RandStat\RandomNumberStatistics.exe
+C:\Users\User\Desktop\RandStat\RandomNumberStatistics.dll
+C:\Users\User\Desktop\RandStat\RandomNumberStatistics.deps.json
+C:\Users\User\Desktop\RandStat\RandomNumberStatistics.runtimeconfig.json
+C:\Users\User\Desktop\RandStat\RandomNumberStatistics.pdb
+C:\Users\User\Desktop\RandStat\System.Windows.Forms.DataVisualization.dll
